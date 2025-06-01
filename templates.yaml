@@ -1,0 +1,19 @@
+Twitter:
+  template: >
+    Write a short, impactful tweet about {topic} in a {tone} tone only. 
+    Keep it under 280 characters.include trending hashtags related to the topic. 
+    and do not write anything on the image
+    
+    
+
+Linkedin:
+  template: >
+    Write a compelling and professional LinkedIn post about {topic} in a {tone} tone only. 
+    Start with a strong hook, offer a unique insight or practical advice, and end with a clear call to action.
+    Maintain a thoughtful and credible voice and do not write anything on the image.
+
+Instagram:
+  template: >
+    Write an authentic and engaging Instagram caption about {topic} in a {tone} tone only. 
+    Include a personal or emotional hook, add 3 relevant niche hashtags.
+    Keep it audience-friendly and visually appealing and do not write anything on the image.
